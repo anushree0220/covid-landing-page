@@ -1,5 +1,5 @@
 # Covid Landing Page
-Hello this is Aayush 
+Hello this is Anushree 
 Responsive covid landing page created with HTML, CSS and JavaScript.
 The page we are building is to help raise awareness and prevention for covid-19.
 
@@ -24,4 +24,4 @@ It's a informative website for awaring peoples from covid, It's preety good look
 - footer
 
 # preview 
-- live preview of this covid page (https://ayush5718.github.io/Covid-Paage/) 
+- live preview of this covid page (https://anushree0220.github.io/covid-landing-page/) 
